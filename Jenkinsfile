@@ -17,4 +17,4 @@ pipeline {
                         sh 'cp target/docomo.war /home/sumeet/Documents/devops-tool/apache-tomcat-9.0.73/webapps'
                   
 }}}                        
-                          
+                    } 
